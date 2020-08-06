@@ -46,12 +46,12 @@ var questions = [
 	},
 	{
 		id: 5,
-		question: 6,
-		choice1: 1,
-		choice2: 2,
-		choice3: 3,
-		choice4: 4,
-		answer: 1
+		question: 'What is the HTML tag under which one can write the JavaScript code?',
+		choice1: 'JavaScript',
+		choice2: 'scripted',
+		choice3: 'script',
+		choice4: 'js',
+		answer: 'script'
 	},
 	{
 		id: 6,
